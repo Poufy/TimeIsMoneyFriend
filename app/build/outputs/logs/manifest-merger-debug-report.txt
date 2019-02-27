@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\intentanimation-1.0.aar\4e9f68a624b2e70441f4f0795cdd8de8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef3c371a9ff0bc3eb54ceb1dd01b2fd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b522572c0b1b8838aeab4193914bc0ef\AndroidManifest.xml:2:1-11:12
+MERGED from [com.budiyev.android:circular-progress-bar:1.2.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\circular-progress-bar-1.2.2.aar\035ac075026b775461f546167d8f688b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb6dc6c9b73dd146939f23c935233500\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd71e00932bcd6a25cfe38d2dab57574\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b83a0aef0565dfe39617f24d7c0d534c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c2d88e8c9a36a4c120a3bff6bde0db8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\595cf84b1259c062a2d32c3727a3a630\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\feb51c6b9ddc18ae92a5e3841a892f0f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1d735d8a2e14b19299a078835eb359b1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e092457739028064041df4b7eb403b73\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9db38dfb35242523b252dcd48d994619\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2cf1647005f705b163ad42b6ba57833\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b522572c0b1b8838aeab4193914bc0ef\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b522572c0b1b8838aeab4193914bc0ef\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.timeismoneyfriend.MainScreen
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:12:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.android.timeismoneyfriend.CountDownTimer
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:19:9-52
+	android:name
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:19:19-49
+activity#com.example.android.timeismoneyfriend.CountDownTimerEntryy
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:20:9-58
+	android:name
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:20:19-55
+activity#com.example.android.timeismoneyfriend.TimerActivity
+ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:21:9-60
+	android:name
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml:21:19-48
+uses-sdk
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\intentanimation-1.0.aar\4e9f68a624b2e70441f4f0795cdd8de8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\intentanimation-1.0.aar\4e9f68a624b2e70441f4f0795cdd8de8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef3c371a9ff0bc3eb54ceb1dd01b2fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef3c371a9ff0bc3eb54ceb1dd01b2fd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b522572c0b1b8838aeab4193914bc0ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\b522572c0b1b8838aeab4193914bc0ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.budiyev.android:circular-progress-bar:1.2.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\circular-progress-bar-1.2.2.aar\035ac075026b775461f546167d8f688b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.budiyev.android:circular-progress-bar:1.2.2] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\circular-progress-bar-1.2.2.aar\035ac075026b775461f546167d8f688b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb6dc6c9b73dd146939f23c935233500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\eb6dc6c9b73dd146939f23c935233500\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd71e00932bcd6a25cfe38d2dab57574\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd71e00932bcd6a25cfe38d2dab57574\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b83a0aef0565dfe39617f24d7c0d534c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\b83a0aef0565dfe39617f24d7c0d534c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c2d88e8c9a36a4c120a3bff6bde0db8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c2d88e8c9a36a4c120a3bff6bde0db8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\595cf84b1259c062a2d32c3727a3a630\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\595cf84b1259c062a2d32c3727a3a630\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\feb51c6b9ddc18ae92a5e3841a892f0f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\feb51c6b9ddc18ae92a5e3841a892f0f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1d735d8a2e14b19299a078835eb359b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\1d735d8a2e14b19299a078835eb359b1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e092457739028064041df4b7eb403b73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e092457739028064041df4b7eb403b73\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9db38dfb35242523b252dcd48d994619\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9db38dfb35242523b252dcd48d994619\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2cf1647005f705b163ad42b6ba57833\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\MCE\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d2cf1647005f705b163ad42b6ba57833\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCE\AndroidStudioProjects\TimeIsMoneyFriend\app\src\main\AndroidManifest.xml
